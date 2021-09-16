@@ -1,0 +1,155 @@
+.outer-box{
+    width:850px;
+    height:700px;
+    justify-content:center;
+    background-colour:white;
+    margin-left:200px;
+}
+body{
+    background-color: #d6d5d3 ;
+}
+.text-box{
+    float:left;
+    width:400px;
+    text-align: center;
+    margin-top: 200px;
+   
+}
+.first{
+    font-size: 34px;
+    font-weight:600;
+ }
+ .second{
+     color: grey;
+     font-size: 24px;
+     font-weight: 100;
+ }
+ .view-work{
+    border-radius:50px;
+    background-color:brown;
+    font-size:larger;
+    border:1px solid #C4C3C2;
+    text-decoration: none;
+    padding:20px;
+    color:#161616
+  }
+  .view-work:hover{
+      background-color:aqua ;
+      cursor:pointer;
+  }
+  .action{
+      padding:30px;
+  }
+  .one{
+      text-decoration:none;
+      background-color: rgb(194, 108, 158);
+      font-size:large;
+      padding:3px;
+      font-weight:bolder;
+  }
+  .one:hover{
+    background-color:aqua ;
+    cursor:pointer;
+} 
+.two{
+    text-decoration:none;
+    background-color:rebeccapurple;
+    font-size:large;
+    padding:3px;
+    font-weight:bolder; 
+}
+.two:hover{
+    background-color:aqua ;
+    cursor:pointer;
+} 
+.three{
+text-decoration:none;
+      background-color:green;
+      font-size:large;
+      padding:3px;
+      font-weight:bolder;
+}
+.three:hover{
+    background-color:aqua ;
+    cursor:pointer;
+} 
+.four{
+    text-decoration:none;
+      background-color: blue;
+      font-size:large;
+      padding:3px;
+      font-weight:bolder;
+}
+.four:hover{
+    background-color:aqua ;
+    cursor:pointer;
+} 
+.five{
+    text-decoration:none;
+      background-color:gold;
+      font-size:large;
+      padding:3px;
+      font-weight:bolder;
+}
+.five:hover{
+        background-color:aqua ;
+        cursor:pointer;
+    } 
+    .second-box{
+    width:850px;
+    height:600px;
+    justify-content:center;
+    background-color:black;
+    margin-left: 200px; 
+    }
+    .work{
+        color: white;
+        text-align:center;
+        font-size:x-large;
+        padding:15px;
+       }
+       .third-box{
+        width:850px;
+        height:600px;
+        justify-content:center;
+        background-color:white;
+        margin-top:0px;
+        
+    }
+    .photo{
+        font-size:22px;
+        font-weight:bolder;
+        text-align:center;
+        padding:20px;
+        line-height:40px;
+        background-color:#e9e4e0 ;
+        margin-top:0px;
+    }
+    .text{
+        color:#161616;
+        font-weight:500;
+        font-size:large;
+    }
+    .forth-box,{
+        width:850px;
+        height:600px;
+        justify-content:center;
+        background-color:white;
+        margin-top:0px;
+    }
+    .photo-two,.photo-three{
+        font-size:22px;
+        font-weight:bolder;
+        text-align:center;
+        padding:20px;
+        line-height:40px;
+        margin-top:20px;
+        background-color: #e9e4e0 ;
+     }
+
+    .text1,.text2{
+        color:#161616;
+        font-weight:500;
+        font-size:large;
+        
+    }
